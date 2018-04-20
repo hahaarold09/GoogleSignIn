@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531470829820",
+    "firebase_url": "https://signin-a5e6b.firebaseio.com",
+    "project_id": "signin-a5e6b",
+    "storage_bucket": "signin-a5e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531470829820:android:439b75719e222fd0",
+        "android_client_info": {
+          "package_name": "com.delacerna.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531470829820-v0530gt5iup6n5u6uhtvjmpolgtump8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delacerna.signin",
+            "certificate_hash": "674b1e3355b427b1a5b477090066487dd210fe45"
+          }
+        },
+        {
+          "client_id": "531470829820-m1me191pbp54rbmh0hd6gapjdtakt055.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGjHXvAkHnf5GeD-Lqee4a1xYzBCat4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531470829820-m1me191pbp54rbmh0hd6gapjdtakt055.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
